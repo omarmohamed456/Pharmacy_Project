@@ -1,1 +1,3 @@
 # Pharmacy_Project
+**#There is a CLI version of the code, but it is not complete. The GUI version has more features and better error handling.**
+This is a simple pharmacy system. The program starts by asking the user to enter the pharmacy’s capacity. The capacity controls how many drugs are added when drugs are removed their space is freed. The same happens when an order is placed. The user orders specific quantity so the same quantity’s space in the pharmacy is freed so the user can add more. The main functions are add drug, remove drug, display all, place an order, search by id and name, get total sales of the day which also prints to a file and finally exit. The program handles all edge cases and errors using try catch and if conditions. 
